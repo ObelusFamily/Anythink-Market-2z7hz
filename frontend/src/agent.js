@@ -9,7 +9,6 @@ const API_ROOT =
   : process.env.BACKEND_URL;
 
 
-
 const encode = encodeURIComponent;
 const responseBody = (res) => res.body;
 
